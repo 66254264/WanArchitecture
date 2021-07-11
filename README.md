@@ -1,11 +1,13 @@
-# WanArchitecture
+<div align="center">
+<img src="https://github.com/blindmonk/WanArchitecture/blob/main/WanArchitecture.png">
+</div>
 
 ## 介绍
 
-本项目结合架构理论知识和架构原则实践了一个wanAndroid项目，其中全部采用kotlin编写并抛弃了Rxjava，因为kotlin可以完全替代它。更多详细的介绍可以查看原博客和**star**本项目，后续会在github上持续更新：
+汇聚了业界知名架构文章。从建筑学的知识中得到一些对架构的思考，并以架构设计原则和目的对Jetpack MVVM 重新构造！更多详细的介绍可以查看项目介绍和**star**本项目，后续会在github上持续更新：
 + [掘金博客](https://juejin.cn/user/166781495818408/posts)
 
-+ [github地址](https://github.com/blindmonk/WanArchitecture)
++ [项目介绍](https://juejin.cn/post/6960953981543645214)
 
 ## Google推荐架构：
 + [应用架构指南](https://developer.android.com/jetpack/guide?hl=zh-cn#common-principles)
